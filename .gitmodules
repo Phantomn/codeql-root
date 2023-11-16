@@ -1,0 +1,6 @@
+[submodule "apps/rsyslog"]
+	path = apps/rsyslog
+	url = https://github.com/rsyslog/rsyslog
+[submodule "codeql-go"]
+	path = codeql-go
+	url = https://github.com/codeql-go
