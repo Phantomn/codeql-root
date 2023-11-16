@@ -1,0 +1,27 @@
+-I/home/phantom/codeql-root/apps/xpdf
+-I/home/phantom/codeql-root/apps/xpdf/build
+-I/home/phantom/codeql-root/apps/xpdf/goo
+-I/home/phantom/codeql-root/apps/xpdf/fofi
+-I/home/phantom/codeql-root/apps/xpdf/splash
+-I/home/phantom/codeql-root/apps/xpdf/xpdf
+-I/usr/include/x86_64-linux-gnu/qt5/
+-I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
+-I/usr/include/x86_64-linux-gnu/qt5/QtGui
+-I/usr/include/x86_64-linux-gnu/qt5/QtCore
+-I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ /usr/include/x86_64-linux-gnu/qt5/
+-I/usr/include/x86_64-linux-gnu/qt5/QtNetwork
+-I/usr/include/x86_64-linux-gnu/qt5/QtCore
+-I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ /usr/include/x86_64-linux-gnu/qt5/
+-I/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport
+-I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
+-I/usr/include/x86_64-linux-gnu/qt5/QtGui
+-I/usr/include/x86_64-linux-gnu/qt5/QtCore
+-I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++
+-DQT_WIDGETS_LIB
+-DQT_GUI_LIB
+-DQT_WIDGETS_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/phantom/codeql-root/apps/xpdf/build/xpdf-qt/moc_XpdfWidget.cpp
+/home/phantom/codeql-root/apps/xpdf/xpdf-qt/XpdfWidget.h

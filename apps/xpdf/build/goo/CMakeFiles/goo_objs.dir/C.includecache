@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phantom/codeql-root/apps/xpdf/goo/gtypes.h
+
+/home/phantom/codeql-root/apps/xpdf/goo/parseargs.c
+stdio.h
+-
+stddef.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+parseargs.h
+/home/phantom/codeql-root/apps/xpdf/goo/parseargs.h
+
+/home/phantom/codeql-root/apps/xpdf/goo/parseargs.h
+gtypes.h
+/home/phantom/codeql-root/apps/xpdf/goo/gtypes.h
+
